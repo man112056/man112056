@@ -91,7 +91,3 @@ I love **experimenting with multiple tech stacks** and **staying up to date** wi
 </p>
 
 <h3 align="center">Thanks for visiting! 😊</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Thank You" width="200">
-</p>
