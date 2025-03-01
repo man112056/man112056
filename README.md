@@ -12,23 +12,25 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 **About Me**  
 
 <img align="right" alt="Coding" width="400" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--programmer-development-freelance-kit-pack-tools-equipment-illustrations-3738664.png?f=webp">
 
-I am an **Android Engineer** with a passion for building scalable applications. My current focus is on **Jetpack Compose**, **Flutter**, and **Backend Development** with **Java & Spring Boot**. I have experience working on mobile applications, tech blogging, and building web backends.
+I am a **Software Engineer** with a strong passion for building scalable and efficient applications across **mobile, web, and backend** platforms. My expertise lies in **Android (Jetpack Compose), Flutter, and Backend Development with Java & Spring Boot**. I also enjoy **tech blogging**, sharing my learnings on modern development frameworks and best practices.
 
-- 🌱 Currently learning **React.js** and **Browser Extensions**
-- ✍️ Blogging about **Jetpack Compose, Flutter, and Design Patterns**
-- 🔥 Exploring **Web Development** and **Backend Engineering**
-- 🚀 Working on **Swad Mantra**, a recipe app using **Flutter** and **Spoonacular API**
-- ⚡ Fun fact: **I love learning multiple tech stacks at once!**
+### 💡 **What I'm Currently Up To**
+- 🌱 **Learning:** React.js and Browser Extensions  
+- ✍️ **Blogging About:** Jetpack Compose, Flutter, and Design Patterns  
+- 🔥 **Exploring:** Web Development & Backend Engineering  
+- 🚀 **Building:** [Swad Mantra](#), a recipe app using Flutter & Spoonacular API  
+
+I love **experimenting with multiple tech stacks** and **staying up to date** with the latest trends in the industry! 🚀  
 
 ---
 
-### 🛠️ Skills
+## 🛠️ **Skills**
 
-#### **Languages**
+### **Languages**
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -36,28 +38,28 @@ I am an **Android Engineer** with a passion for building scalable applications. 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-#### **Mobile Development**
+### **Mobile Development**
 <p align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 </p>
 
-#### **Backend Development**
+### **Backend Development**
 <p align="left">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
-#### **Web Development**
+### **Web Development**
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-#### **Tools & Platforms**
+### **Tools & Platforms**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
@@ -67,27 +69,27 @@ I am an **Android Engineer** with a passion for building scalable applications. 
 
 ---
 
-### 📊 GitHub Stats
+## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=your-github-username&show_icons=true&locale=en&layout=compact&theme=radical" alt="your-github-username" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=man112056&show_icons=true&locale=en&layout=compact&theme=radical" alt="man112056" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="your-github-username" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=man112056&theme=radical" alt="man112056" />
 </p>
 
 ---
 
-### 📞 Connect with Me
+## 📞 **Connect with Me**
 
 <p align="left">
   <a href="mailto:man112056@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/manish-kumar-sde-android/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-github-username" />
+  <img src="https://komarev.com/ghpvc/?username=man112056&label=Profile%20views&color=0e75b6&style=flat" alt="man112056" />
 </p>
 
 <h3 align="center">Thanks for visiting! 😊</h3>
