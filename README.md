@@ -15,7 +15,7 @@
 
 **About Me**  
 
-<img align="right" alt="Coding" width="400" src="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-3d-illustration-download-in-png-blend-fbx-gltf-file-formats--programmer-development-freelance-kit-pack-tools-equipment-illustrations-3738664.png?f=webp">
+<img align="right" alt="Professional Programmer" width="400" src="https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg">
 
 I am a **Software Engineer** with a strong passion for building scalable and efficient applications across **mobile, web, and backend** platforms. My expertise lies in **Android (Jetpack Compose), Flutter, and Backend Development with Java & Spring Boot**. I also enjoy **tech blogging**, sharing my learnings on modern development frameworks and best practices.
 
