@@ -5,9 +5,9 @@
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website"></a>
+  <a href="https://medium.com/@manishkumar_75473" target="_blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website"></a>
   <a href="mailto:man112056@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://drive.google.com/your-resume-link" target="_blank"><img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=readme&logoColor=white" alt="Resume  </a>
+  <a href="https://drive.google.com/resume-link" target="_blank"><img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"  </a>
 <a href="https://medium.com/@manishkumar_75473" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
 </p>
 
@@ -25,7 +25,7 @@ I am a **Software Engineer** with a strong passion for building scalable and eff
 - 🔥 **Exploring:** Web Development & Backend Engineering  
 - 🚀 **Building:** [Swad Mantra](#), a recipe app using Flutter & Spoonacular API  
 
-I love **experimenting with multiple tech stacks** and **staying up to date** with the latest trends in the industry! 🚀  
+I love **experimenting with tech** and **staying up to date** with the latest trends in the industry!   
 
 ---
 
@@ -39,7 +39,7 @@ I love **experimenting with multiple tech stacks** and **staying up to date** wi
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-### **Mobile Development**
+### **Mobile App Development**
 <p align="left">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose"/>
