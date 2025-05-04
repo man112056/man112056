@@ -7,7 +7,7 @@
 <h3 align="center">Software Engineer | Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://medium.com/@manishkumar_75473" target="_blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website"></a>
+  <a href="https://manishkumartech.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Website"></a>
   <a href="mailto:man112056@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://drive.google.com/resume-link" target="_blank"><img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"  </a>
 <a href="https://medium.com/@manishkumar_75473" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
