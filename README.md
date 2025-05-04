@@ -23,9 +23,9 @@ I am a **Software Engineer** with a strong passion for building scalable and eff
 
 ### 💡 **What I'm Currently Up To**
 - 🌱 **Learning:** React.js and Browser Extensions  
-- ✍️ **Blogging About:** Jetpack Compose, Flutter, and Design Patterns  
-- 🔥 **Exploring:** Web Development & Backend Engineering  
-- 🚀 **Building:** [Swad Mantra](#), a recipe app using Flutter & Spoonacular API  
+- ✍️ **Blogging About:** Android Native, Flutter, and Design Patterns  
+- 🔥 **Exploring:** Web Development & Backend Engineering using Springboot and ReactJs
+- 🚀 **Building:** <a href="https://swad-mantra.vercel.app/">**Swad Mantra**</a>, a recipe app using Flutter, ReactJS & Spoonacular API  
 
 I love **experimenting with tech** and **staying up to date** with the latest trends in the industry!   
 
